@@ -41,3 +41,5 @@ console.log(`hono-smoke-app listening on :${port}`);
 // smoke trigger after template env fix 2026-05-22T13:29:25Z
 
 // smoke trigger after promotion retry merge 2026-05-22T14:05:41Z
+
+// smoke trigger without keepalive 2026-05-22T14:08:46Z
