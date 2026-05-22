@@ -21,6 +21,14 @@ app.get("/branch", (c) =>
   }),
 );
 
+app.get("/branch/details", (c) =>
+  c.json({
+    ok: true,
+    message: "second branch push reached this deployment",
+    timestamp: new Date().toISOString(),
+  }),
+);
+
 const port = Number(process.env["PORT"] ?? 3000);
 
 serve({
