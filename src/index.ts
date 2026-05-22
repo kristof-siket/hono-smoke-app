@@ -13,6 +13,14 @@ app.get("/", (c) =>
 
 app.get("/health", (c) => c.json({ ok: true }));
 
+app.get("/branch", (c) =>
+  c.json({
+    ok: true,
+    branch: "smoke-branch-endpoint-20260522",
+    timestamp: new Date().toISOString(),
+  }),
+);
+
 const port = Number(process.env["PORT"] ?? 3000);
 
 serve({
