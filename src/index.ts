@@ -21,3 +21,5 @@ serve({
 });
 
 console.log(`hono-smoke-app listening on :${port}`);
+
+// smoke trigger 2026-05-22T12:46:13Z
