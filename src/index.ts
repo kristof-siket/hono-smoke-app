@@ -59,3 +59,5 @@ console.log(`hono-smoke-app listening on :${port}`);
 // smoke trigger after promotion retry merge 2026-05-22T14:05:41Z
 
 // smoke trigger without keepalive 2026-05-22T14:08:46Z
+
+// lifecycle webhook trigger 2026-05-22T17:30:00Z
