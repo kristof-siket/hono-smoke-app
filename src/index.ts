@@ -43,3 +43,5 @@ console.log(`hono-smoke-app listening on :${port}`);
 // smoke trigger after promotion retry merge 2026-05-22T14:05:41Z
 
 // smoke trigger without keepalive 2026-05-22T14:08:46Z
+
+// smoke trigger after PTL-1516 async build-runner merge 2026-05-26T15:23:40Z
