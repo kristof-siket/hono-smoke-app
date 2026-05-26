@@ -47,3 +47,5 @@ console.log(`hono-smoke-app listening on :${port}`);
 // smoke trigger after PTL-1516 async build-runner merge 2026-05-26T15:23:40Z
 
 // smoke trigger 2 2026-05-26T15:25:27Z
+
+// smoke trigger after e2b template republish 2026-05-26T15:40:28Z
