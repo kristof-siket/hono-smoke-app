@@ -53,3 +53,5 @@ console.log(`hono-smoke-app listening on :${port}`);
 // smoke retry 2026-05-26T15:42:19Z
 
 // smoke after postFinalize.ts COPY fix 15:46:58Z
+
+// smoke after .ts ext fix 15:55:03Z
