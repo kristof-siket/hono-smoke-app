@@ -57,3 +57,5 @@ console.log(`hono-smoke-app listening on :${port}`);
 // smoke after .ts ext fix 15:55:03Z
 
 // smoke: verify kill-on-finalize after #3969 + template republish 17:20:41Z
+
+// load-2 at 17:23:49Z
