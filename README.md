@@ -8,4 +8,4 @@ Small Hono service used to verify a generic Bun HTTP deployment flow.
 - `GET /` returns a JSON payload with the service name and timestamp
 // demo 2026-05-27T13:59:15+02:00
 // direct main push from demo 2026-05-27T14:04:13+02:00
-// direct main push 2026-05-27T14:07:57+02:00
+// direct main push 2026-05-27T14:07:57+02:00// A: 2026-05-27T14:24:38+02:00
