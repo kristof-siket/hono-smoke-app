@@ -65,3 +65,4 @@ console.log(`hono-smoke-app listening on :${port}`);
 // ld3-4 at 07:19:11Z
 // trace smoke 2026-05-27T08:52:42Z
 // stress 111325-1 2026-05-27T09:13:25Z
+// stress 111325-1 wave2 2026-05-27T09:14:13Z
