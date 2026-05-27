@@ -59,3 +59,5 @@ console.log(`hono-smoke-app listening on :${port}`);
 // smoke: verify kill-on-finalize after #3969 + template republish 17:20:41Z
 
 // load-2 at 17:23:49Z
+
+// load2-2 at 07:14:49Z
