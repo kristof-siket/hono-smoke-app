@@ -9,3 +9,4 @@ Small Hono service used to verify a generic Bun HTTP deployment flow.
 // demo 2026-05-27T13:59:15+02:00
 // direct main push from demo 2026-05-27T14:04:13+02:00
 // direct main push 2026-05-27T14:07:57+02:00// A: 2026-05-27T14:24:38+02:00
+// C1.1: 2026-05-27T14:25:56+02:00
