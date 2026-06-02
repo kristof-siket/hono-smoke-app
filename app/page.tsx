@@ -102,3 +102,4 @@ export default function Home() {
   );
 }
 // smoke follow-up 20260602T090943Z
+// post-pnpm-fix smoke 20260602T095242Z
