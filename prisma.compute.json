@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "hono-smoke-app",
+    "framework": "hono",
+    "entry": "src/index.ts",
+    "httpPort": 3000,
+    "build": {
+      "command": null,
+      "outputDirectory": "."
+    }
+  }
+}
